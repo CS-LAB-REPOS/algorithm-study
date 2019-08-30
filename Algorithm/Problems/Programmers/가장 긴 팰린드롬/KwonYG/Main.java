@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Main {
     public static boolean isPalin(String str) {
         int leftIndex = 0;
